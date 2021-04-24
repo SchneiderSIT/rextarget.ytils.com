@@ -1,0 +1,22 @@
+ytils_rex_target = Ytils RexTarget
+ytils_rex_target_title = Ytils RexTarget
+
+ytils_rex_target_main = Ytils RexTarget
+ytils_rex_target_config = Einstellungen
+ytils_rex_target_main_title = Ytils RexTarget
+ytils_rex_target_main_content = Willkommen beim Redaxo Addon Ytils RexTarget.<br /><br />RexTarget behandelt das Attribut target Deiner Links auf Seiten, auf denen Du die Redaxo-Variable REX_YTILS_REX_TARGET integriert hast.<br />Unter den Einstellungen kannst Du angeben, welche Links zu welchen Domains _self, _top, _blank oder _parent geöffnet werden sollen. Links, die keiner Konfiguration entsprechen, werden nicht behandelt.<br /><br />Volle Dokumentation unter {{documentationUrlEn}}.
+
+ytils_rex_target_adjustments = Wie soll Ytils RexTarget Deine Links behandeln?
+ytils_rex_target_adjustments2 = Bitte eine Domain je Zeile angeben. Die Subdomain "www" muss einzeln angegeben werden. Bitte kein "https://" oder "http://" vorweg angeben.
+ytils_rex_target_config_save = Einstellungen speichern
+
+ytils_rex_target_self_prefixes = Domains, die _self behandelt werden sollen:
+ytils_rex_target_top_prefixes = Domains, die _top behandelt werden sollen:
+ytils_rex_target_blank_prefixes = Domains, die _blank behandelt werden sollen:
+ytils_rex_target_parent_prefixes = Domains, die _parent behandelt werden sollen:
+
+ytils_rex_target_others = Verhalten für alle anderen Domains
+ytils_rex_target_others_nothing = Nichts tun
+
+ytils_rex_md_config_save = Einstellungen speichern
+ytils_rex_md_config_saved = Einstellungen wurden gespeichert!
