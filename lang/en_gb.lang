@@ -18,5 +18,5 @@ ytils_rex_target_parent_prefixes = Domains, that should be handled _parent:
 ytils_rex_target_others = Behaviour for all other domains
 ytils_rex_target_others_nothing = Do nothing
 
-ytils_rex_md_config_save = Save settings
-ytils_rex_md_config_saved = Settings saved!
+ytils_rex_target_config_save = Save settings
+ytils_rex_target_config_saved = Settings saved!
