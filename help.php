@@ -9,7 +9,7 @@
  */
 
 $content = <<<EOT
-# Ytils RexTarget - Handling the target attribute of your web pages with REX_YTILS_REX_TARGET.
+# Ytils RexTarget - Handling the target attribute of your web pages with REX_YTILS_REX_TARGET[].
 
 See <a href="https://www.ytils.com/rextarget" target="_blank">www.ytils.com/rextarget</a> for documentation.
 
@@ -19,7 +19,7 @@ See <a href="https://www.ytils.com/rextarget" target="_blank">www.ytils.com/rext
 
 MIT License
 
-Copyright 2021 Kim Schneider, ytils.com 
+Copyright 2023 Kim Schneider, ytils.com 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in
