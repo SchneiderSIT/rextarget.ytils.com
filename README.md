@@ -1,6 +1,6 @@
 # Ytils RexTarget
 
-Redaxo CMS add-on that adds a Redaxo variable REX_YTILS_REX_TARGET to inject a JavaScript that handles 
+Redaxo CMS add-on that adds a Redaxo variable REX_YTILS_REX_TARGET[] to inject a JavaScript that handles 
 the target attribute of the links within your page corresponding to your settings.
 
 ## Available on Redaxo's installer
